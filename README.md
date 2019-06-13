@@ -1,7 +1,21 @@
 # template-for-competetive-coding
+
+
+
+
+
+
+
+
+
 ************** Template For Competetive Coding     ************
 **************           Prabhat                  ************
 **************        NIT UTTARAKHAND             ************
+
+
+
+
+
 import java.io.*;
 import java.util.*;
 import java.lang.*;
